@@ -1,0 +1,2 @@
+# -evik-proje-y-netimi-dersi-online-kafeterya-sistemi-deposu
+Bu proje, Başkent Üniversitesi öğrencileri ve personelinin kafeterya hizmetlerinden daha hızlı ve verimli şekilde yararlanmasını amaçlamaktadır. Öğrenci ve personel, yazılım üzerinden önceden sipariş verip ödemesini yaparak belirlenen saatte ürünlerini teslim alabilecek.Böylece kuyruklar ve yoğunluk azaltılacak, zaman yönetimi iyileştirilecektir.
